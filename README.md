@@ -1,15 +1,9 @@
-# API-Team12
-welcome to our Appliction
 
 ## Links
 - [API URL](https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=6)
 - [IMG PATH](https://image.tmdb.org/t/p/w1280)
-- [Repository](https://github.com/GSG-FC03/API-Team12)
 
-## Team Member
 
-- [Nada Saleh](https://github.com/NadaSaleh20)
-- [Wessal El-khatib](https://github.com/WessalJawad95)
 
 ## Project description
    This website is about Movies , which appear alot of moveies and you can search any of movie you want.
